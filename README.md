@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript
 - 🤔 Procurando um(a) parceiro(a) de estudos
 
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o Romildo Rocha
  <div>
   <a href="https://github.com/"romildorocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romildorocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
